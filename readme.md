@@ -1,4 +1,5 @@
-![alt text](Streamlit_gemini_flash.png)
+
+![Screenshot 2025-01-25 034208](https://github.com/user-attachments/assets/d574bcea-1ddc-423c-af5e-e67cd4e92148)
 
 Here's a `README.md` template that explains the provided code. It should give you a clear understanding of how each part works:
 
